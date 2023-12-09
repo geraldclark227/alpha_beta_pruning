@@ -111,9 +111,6 @@ class MiniMax:
 # Depth 0
 root = Node('A', value=None)
 
-# Depth 0
-root = Node('A', value=None)
-
 # Depth 1
 root.left = Node('B', value=None)
 root.right = Node('Q', value=None)
